@@ -1,0 +1,7 @@
+Tool used: Claude 
+
+What it was used for: helped me brainstorm use cases because I could not think of too many
+
+Prompts used: "I needed help coming up with some use cases for smart parking platform software that I would be making"
+
+What I kept vs. what I changed: I kept my first 8 use cases I came up with, and I added on based on the suggestions I was given. Only used the ones that made sense in our project context and scope and double checked them
