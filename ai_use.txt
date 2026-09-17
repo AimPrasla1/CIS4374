@@ -1,3 +1,4 @@
+Homework 1:
 Tool used: Claude 
 
 What it was used for: helped me brainstorm use cases because I could not think of too many
@@ -5,3 +6,12 @@ What it was used for: helped me brainstorm use cases because I could not think o
 Prompts used: "I needed help coming up with some use cases for smart parking platform software that I would be making"
 
 What I kept vs. what I changed: I kept my first 8 use cases I came up with, and I added on based on the suggestions I was given. Only used the ones that made sense in our project context and scope and double checked them
+
+Homework 2:
+Tool used: Claude 
+
+What it was used for: I needed help understanding how long projects like these roughly take to complete so I would know how to structure my gantt chart
+
+Prompts used: "Give me a ballpark range for development length for a full stack application for a smart parking system"
+
+What I kept vs. what I changed: Originally I thought it would take a very long time like around 6 months but it looks like it was within the 2-3 month range so I tailored my gantt chart to fit around the 2 month range.
